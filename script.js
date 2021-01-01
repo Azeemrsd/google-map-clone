@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiYXplZW1yc2QiLCJhIjoiY2tqZGNsazg4M3VqNTJ5bGdjN2NtZHZ6biJ9.r5352wfdCNEVW9-rJ9tmIA';
+mapboxgl.accessToken = "pk.eyJ1IjoiYXplZW1yc2QiLCJhIjoiY2tqZGRobGFrODcwNjMycWpkYTF2cGI5eiJ9.LRwpZguSJua4Wv7xH18r0A";
 
 const successLocation = (position)=>{
 console.log(position)
